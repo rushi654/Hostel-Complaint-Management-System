@@ -16,4 +16,5 @@ This is a project built to take complaints and queries of students regarding hos
 <img src="https://github.com/Bijay555/hostel-complaint-management-system/blob/master/images/Screenshot%20(260).png" width="600">
 <img src="https://github.com/Bijay555/hostel-complaint-management-system/blob/master/images/Screenshot%20(258).png" width="600">
 <br>
-My name is Rushikesh
+My name is Rushikesh<br>
+I have succesfully used the add commit and push command.
